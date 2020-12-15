@@ -11,3 +11,5 @@
 ##### Run `npm install`
 
 ##### Run `npm start`
+
+![Screen Shots](src/images/screenshot.gif?raw=true)
