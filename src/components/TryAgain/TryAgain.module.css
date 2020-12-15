@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 2rem 5rem;
+    color: var(--dark-blue);
+    /* background-color: blue; */
+}
+
+.container h1 {
+    margin-top: 4rem;
+}
+
+.container p {
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+    margin-bottom: 4rem;
+}
+
+.span {
+    color: var(--success-color);
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.container button {
+    color: var(--dark-blue);
+    border: 2px solid var(--dark-blue);
+    font-weight: 600;
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+    background-color: transparent;
+    padding: 1rem 4rem;
+    border-radius: 1.2rem;
+    align-self: center;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.container button:hover {
+    background-color: var(--success-color);
+    color: #fff;
+    border-color: var(--success-color);
+}
