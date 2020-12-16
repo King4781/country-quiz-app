@@ -1,15 +1,17 @@
 # Country Quiz App
 
-### A trivia game that ask random questions about country capitals and flags.
+#### Site demo: https://tender-fermat-8d1d02.netlify.app/
+
+#### A trivia game that ask random questions about country capitals and flags.
 
 ## How to get start
 
-##### Download the zip or clone the repo
+#### Download the zip or clone the repo
 
-##### `cd country-quiz-app`
+#### `cd country-quiz-app`
 
-##### Run `npm install`
+#### Run `npm install`
 
-##### Run `npm start`
+#### Run `npm start`
 
 ![Screen Shots](src/images/screenshot.gif?raw=true)
